@@ -36,7 +36,7 @@
 установлена в системе. Установщик не добавляет путь в переменную PATH,
 это Вы должны сделать самостоятельно.
 
-Для установки запустите файл **UtilSetup.exe** или скопируйте каталог
+Для установки запустите файл **UtilPackSetup.exe** или скопируйте каталог
 **Util** в корень на диске C: и вручную установите переменные окружения.
 
 # Лицензия
@@ -81,7 +81,7 @@ The packet is installed “as is” in the default directory c:, and the %
 The Installer does not add a path to the packet to the PATH variable,
 you should make it independently.
 
-You must start the file \*\* UtilSetup.exe \*\* for installation or copy
+You must start the file \*\* UtilPackSetup.exe \*\* for installation or copy
 the directory \*\* Util \*\* in a root on the disk C: and manually set
 variable environments.
 

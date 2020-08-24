@@ -1189,7 +1189,7 @@ VII. Setting environment variables before running Lynx (optional)
 	set home=d:\win32
 	set temp=d:\tmp
 	set lynx_cfg=d:\win32\lynx.cfg
-	set lynx_save_space=d:\download
+	set lynx_save_space=e:\yuden\Compile
 	d:\win32\lynx.exe %1 %2 %3 %4 %5
 
     For lynx_386, a typical batch file might look like:
