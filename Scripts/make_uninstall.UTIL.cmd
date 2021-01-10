@@ -1,3 +1,3 @@
 copy  %UTIL%\rm.util.cmd c:\
-c:\rm.util.cmd
+rem c:\rm.util.cmd
 

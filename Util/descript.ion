@@ -39,6 +39,7 @@ DeleteAllHardlinks.bat -- удаление всех жёстких смсылок\nВ
 DeltaPiCopyReplace.exe -- Program for Copy and Replase Text in Mibirise Project Files\nВ
 DeltaPiPageSettings.exe -- Program For Page Properties Settings for Mobirise Project Files\nВ
 DeltaPi_HTMLCSSeditor.exe -- HTML-CSS Editor for Mobirise Projects Files\nВ
+dosbox.bat -- Command File for run the dosbox emulator with my parameters\nВ
 dosdev.exe -- Look Dos Device Identifiers in a Windows Sysytem\nВ
 emx.exe -- ?
 engdict.bat -- макрос для составления частотного словаря английских слов из билингвы "Русский-Английский"
@@ -51,7 +52,6 @@ gramblr.exe -- Rkbtyn Windows для закачки фото в Instagram\nВ
 hashcat.cmd -- скрипт для запуска программы подбора паролей hashcat\nВ
 hsi.exe -- программа управления отображением окон Windows. Не разобрался, как с ней работать.\nВ
 Htmledit.exe -- Простой веб-редактор
-hydra.cmd -- скрипт для запуска программы для подбора паролоей к Интернет сервисам\nВ
 inkeys.exe -- Функция возвращает Errorlevel = число ASCII Code нажатой клавиши или 0\nВ
 ipscan-ii.exe -- Простой сканер портов\nВ
 Ishtar32.exe -- архиватор для Windows (UNIX-совместимые форматы)
@@ -96,7 +96,6 @@ rsx.exe -- Архиватор с выкокой компрессией Windows
 sedbat.bat -- Программа для запуска макросов SED (из родной директории C:\Scripts\Sed\)
 sedbt1.bat -- Программа для запуска макросов SED (из родной директории C:\Scripts\Sed\)
 spyyuribeg.exe -- Программа для определения времени включения компьютера ДОС
-sqlmap.cmd -- Скрипт для запуска программы SQL инъекций SQLMAP\nВ
 ssiprdos.exe -- Программа для вставки SSI инструкций в веб-файлы (MS-DOS)
 ssi_parser_win.exe -- Программа для вставки SSI инструкций в веб-файлы (Windows)
 Tar98.exe -- Упаковщик файлов для Windows (UNIX -совместимый формат).
@@ -119,5 +118,3 @@ winhlp32.exe -- Программа для чтения файлов справки для MS Windows 32 (актуальна
 WinPhotoPreview.cmd -- Program for Graphics Preview in Windows 10 at the style ala Windows 7\nВ
 WinVi32.exe -- Программа для редактирования текстовых файлов (совметимая с редактором UNIX Vi).
 wscript_s.bat -- Запуск WSH скрипта со специальными параметрами в оболочке Wscript\nВ
-hs_help.cmd -- Программа помощи (справочник) по командам организации диалогового интерфейса к консольным программам\nВ данном пакете такие программы имеют префикс hs_\nВ
-dosbox.bat -- Command File for run the dosbox emulator with my parameters\nВ

@@ -1,6 +1,6 @@
 date/time         : 2010-10-20, 11:47:30, 703ms
-computer name     : YUDENISOV-HOME
-user name         : yudenisov
+computer name     : VadimRevich-HOME
+user name         : VadimRevich
 registered owner  : DNA7 X86 / DNA Project
 operating system  : Windows NT New build 7600
 system language   : Russian
@@ -423,8 +423,8 @@ disassembling:
 [...]
 
 date/time         : 2011-09-11, 15:20:14, 212ms
-computer name     : YUDENISOV-HOME
-user name         : yudenisov
+computer name     : VadimRevich-HOME
+user name         : VadimRevich
 registered owner  : DNA7 X86 / DNA Project
 operating system  : Windows NT New build 7600
 system language   : Russian
@@ -517,7 +517,7 @@ thread $172c:
 modules:
 00400000 ExtMan.exe                0.1.5.145          C:\Util
 043f0000 SugarSyncShellExt.dll     1.0.0.1            C:\Program Files\SugarSync
-10000000 DropboxExt.14.dll         1.0.0.14           C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+10000000 DropboxExt.14.dll         1.0.0.14           C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 64d00000 snxhk.dll                 6.0.1203.0         C:\Program Files\Alwil Software\Avast5
 64e40000 ashShell.dll              6.0.1203.0         C:\Program Files\Alwil Software\Avast5
 6f520000 GrooveUtil.DLL            12.0.6423.1000     C:\Program Files\Microsoft Office\Office12
@@ -579,8 +579,8 @@ modules:
 77ac0000 msvcrt.dll                7.0.7600.16385     C:\Windows\system32
 77b70000 Normaliz.dll              6.1.7600.16385     C:\Windows\system32
 77b80000 sechost.dll               6.1.7600.16385     C:\Windows\SYSTEM32
-7c340000 MSVCR71.dll               7.10.3052.4        C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
-7c3a0000 MSVCP71.dll               7.10.3077.0        C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+7c340000 MSVCR71.dll               7.10.3052.4        C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
+7c3a0000 MSVCP71.dll               7.10.3077.0        C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 
 processes:
 0000 Idle                     0
@@ -646,7 +646,7 @@ processes:
 0ec4 TeamViewer_Service.exe   0
 0ee0 Totalcmd.exe             1 normal       C:\Program Files\Total Commander
 0f38 Ab.exe                   1 normal       C:\Program Files\ABook
-0f58 Dropbox.exe              1 normal       C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+0f58 Dropbox.exe              1 normal       C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 0f60 GoogleCalendarSync.exe   1 normal       C:\Program Files\Google\Google Calendar Sync
 0f70 TSCHelp.exe              1 normal       C:\Program Files\TechSmith\SnagIt 7
 0fa8 punto.exe                1 normal       C:\Program Files\Yandex\Punto Switcher
@@ -953,8 +953,8 @@ disassembling:
 [...]
 
 date/time         : 2011-09-14, 17:26:16, 119ms
-computer name     : YUDENISOV-HOME
-user name         : yudenisov
+computer name     : VadimRevich-HOME
+user name         : VadimRevich
 registered owner  : DNA7 X86 / DNA Project
 operating system  : Windows NT New build 7600
 system language   : Russian
@@ -1104,7 +1104,7 @@ thread $1544:
 modules:
 00400000 ExtMan.exe                0.1.5.145          C:\Util
 04370000 SugarSyncShellExt.dll     1.0.0.1            C:\Program Files\SugarSync
-10000000 DropboxExt.14.dll         1.0.0.14           C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+10000000 DropboxExt.14.dll         1.0.0.14           C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 60690000 WMVCore.DLL               12.0.7600.16385    C:\Windows\system32
 60900000 wpdshext.dll              6.1.7600.16385     C:\Windows\system32
 648e0000 ieproxy.dll               8.0.7600.16385     C:\Program Files\Internet Explorer
@@ -1201,8 +1201,8 @@ modules:
 76dc0000 ntdll.dll                 6.1.7600.16385     C:\Windows\SYSTEM32
 76f00000 NSI.dll                   6.1.7600.16385     C:\Windows\system32
 76f10000 kernel32.dll              6.1.7600.16385     C:\Windows\system32
-7c340000 MSVCR71.dll               7.10.3052.4        C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
-7c3a0000 MSVCP71.dll               7.10.3077.0        C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+7c340000 MSVCR71.dll               7.10.3052.4        C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
+7c3a0000 MSVCP71.dll               7.10.3077.0        C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 
 processes:
 0000 Idle                     0
@@ -1267,7 +1267,7 @@ processes:
 0e74 SnagIt32.exe             1 normal       C:\Program Files\TechSmith\SnagIt 7
 0e9c TeamViewer_Service.exe   0
 0f08 Ab.exe                   1 normal       C:\Program Files\ABook
-0f24 Dropbox.exe              1 normal       C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+0f24 Dropbox.exe              1 normal       C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 0f2c emedtray.exe             1 normal       C:\Program Files\EmEditor
 0f38 GoogleCalendarSync.exe   1 normal       C:\Program Files\Google\Google Calendar Sync
 0f50 TSCHelp.exe              1 normal       C:\Program Files\TechSmith\SnagIt 7
@@ -1287,7 +1287,7 @@ processes:
 11d4 svchost.exe              0
 08a0 svchost.exe              0
 1644 taskeng.exe              1 normal       C:\Windows\system32
-12d4 FlockUpdate.exe          1 normal       C:\Users\yudenisov\AppData\Local\Flock\Update
+12d4 FlockUpdate.exe          1 normal       C:\Users\VadimRevich\AppData\Local\Flock\Update
 0ac8 audiodg.exe              0
 1350 Totalcmd.exe             1 normal       C:\Program Files\Total Commander
 17e0 ExtMan.exe               1 normal       C:\Util
@@ -1566,8 +1566,8 @@ disassembling:
 [...]
 
 date/time         : 2012-09-09, 13:51:59, 23ms
-computer name     : YUDENISOV-HOME1
-user name         : yudenisov
+computer name     : VadimRevich-HOME1
+user name         : VadimRevich
 registered owner  : DNA7 X86 / DNA Project
 operating system  : Windows NT New build 7600
 system language   : Russian
@@ -1705,7 +1705,7 @@ modules:
 06410000 PhoneBrowser_rus.nlr        7.1.72.0           C:\Program Files\Nokia\Nokia PC Suite 7\Lang
 065f0000 PhoneBrowser_Nokia.ngr      7.1.21.0           C:\Program Files\Nokia\Nokia PC Suite 7\Resource
 069b0000 NGSCM.DLL                   7.1.159.0          C:\Program Files\Nokia\Nokia PC Suite 7
-10000000 DropboxExt.14.dll           1.0.0.14           C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+10000000 DropboxExt.14.dll           1.0.0.14           C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 650b0000 ieframe.DLL                 8.0.7600.16385     C:\Windows\system32
 66090000 DAVHLPR.dll                 6.1.7600.16385     C:\Windows\System32
 660a0000 davclnt.dll                 6.1.7600.16385     C:\Windows\System32
@@ -1743,7 +1743,7 @@ modules:
 722b0000 CSCDLL.dll                  6.1.7600.16385     C:\Windows\System32
 722c0000 cscui.dll                   6.1.7600.16385     C:\Windows\System32
 72500000 PortableDeviceApi.dll       6.1.7600.16385     C:\Windows\system32
-73900000 YandexDiskShellExt-2812.dll 0.5.0.2812         C:\Users\yudenisov\AppData\Roaming\Yandex\YandexDisk
+73900000 YandexDiskShellExt-2812.dll 0.5.0.2812         C:\Users\VadimRevich\AppData\Roaming\Yandex\YandexDisk
 739c0000 EhStorAPI.dll               6.1.7600.16385     C:\Windows\system32
 73aa0000 GrooveSystemServices.dll    12.0.6421.1000     C:\Program Files\Microsoft Office\Office12
 73ad0000 thumbcache.dll              6.1.7600.16385     C:\Windows\system32
@@ -1805,8 +1805,8 @@ modules:
 77ac0000 WLDAP32.dll                 6.1.7600.16385     C:\Windows\system32
 77b10000 imagehlp.dll                6.1.7600.16385     C:\Windows\system32
 77b40000 Normaliz.dll                6.1.7600.16385     C:\Windows\system32
-7c340000 MSVCR71.dll                 7.10.3052.4        C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
-7c3a0000 MSVCP71.dll                 7.10.3077.0        C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+7c340000 MSVCR71.dll                 7.10.3052.4        C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
+7c3a0000 MSVCP71.dll                 7.10.3077.0        C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 
 processes:
 0000 Idle                      0
@@ -1889,43 +1889,43 @@ processes:
 14e4 PMBVolumeWatcher.exe      1 normal C:\Program Files\Sony\PMB
 15f4 2GISTrayNotifier.exe      1 normal C:\Program Files\2gis\3.0
 1604 PDVDServ.exe              1 normal C:\Program Files\CyberLink\PowerDVD
-161c chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
+161c chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
 1624 sidebar.exe               1 normal C:\Program Files\Windows Sidebar
 16c4 xmarkssync.exe            1 normal C:\Program Files\Xmarks\IE Extension
-1790 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-17bc YandexDisk.exe            1 normal C:\Users\yudenisov\AppData\Roaming\Yandex\YandexDisk
-17c8 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-17f0 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-17fc chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-0a7c chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-08a4 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-0db0 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-1038 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-05bc chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-0550 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-10bc chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-10e0 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-05d8 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
+1790 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+17bc YandexDisk.exe            1 normal C:\Users\VadimRevich\AppData\Roaming\Yandex\YandexDisk
+17c8 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+17f0 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+17fc chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+0a7c chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+08a4 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+0db0 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+1038 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+05bc chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+0550 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+10bc chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+10e0 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+05d8 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
 1400 DTShellHlp.exe            1 normal C:\Program Files\DAEMON Tools Lite
 0df0 SugarSyncManager.exe      1 normal C:\Program Files\SugarSync
 1650 googledrivesync.exe       1 normal C:\Program Files\Google\Drive
-07b0 ouc.exe                   1 normal C:\Users\yudenisov\AppData\Roaming\Connect Manager
+07b0 ouc.exe                   1 normal C:\Users\VadimRevich\AppData\Roaming\Connect Manager
 0dd0 ComproRemote.exe          1 normal C:\Program Files\Common Files\VideoMate
 00a8 ComproSchedulerDTV.exe    1 normal C:\Program Files\Common Files\VideoMate
-0aa0 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
+0aa0 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
 0c1c orbitdm.exe               1 normal C:\Program Files\Orbitdownloader
 09b4 TOTALCMD.EXE              1 normal C:\Program Files\Total Commander
-0ed0 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
+0ed0 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
 1828 googledrivesync.exe       1 normal C:\Program Files\Google\Drive
 188c orbitnet.exe              1 normal C:\Program Files\Orbitdownloader
-1904 Dropbox.exe               1 normal C:\Users\yudenisov\AppData\Roaming\Dropbox\bin
+1904 Dropbox.exe               1 normal C:\Users\VadimRevich\AppData\Roaming\Dropbox\bin
 195c emedtray.exe              1 normal C:\Program Files\EmEditor
 1998 GoogleCalendarSync.exe    1 normal C:\Program Files\Google\Google Calendar Sync
 19d8 punto.exe                 1 normal C:\Program Files\Yandex\Punto Switcher
 1a5c svchost.exe               0
-1aac Ab.exe                    1 normal C:\Users\yudenisov\ABook
-1b0c chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
-1b94 chrome.exe                1 normal C:\Users\yudenisov\AppData\Local\Google\Chrome\Application
+1aac Ab.exe                    1 normal C:\Users\VadimRevich\ABook
+1b0c chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
+1b94 chrome.exe                1 normal C:\Users\VadimRevich\AppData\Local\Google\Chrome\Application
 1c80 svchost.exe               0
 0a98 wmpnetwk.exe              0
 1e00 ExtMan.exe                1 normal C:\Util

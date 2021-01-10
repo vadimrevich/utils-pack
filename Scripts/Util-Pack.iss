@@ -1,9 +1,9 @@
 [Setup]
-AppName=Util Pack
+AppName=Utils Pack
 AppVersion=1.6.0.0
 AllowRootDirectory=yes
 Compression=lzma
-LicenseFile=userdocs:GitHub\vadimrevich\utils-pack\LICENSE
+LicenseFile=..\LICENSE
 RestartIfNeededByRun=False
 AllowCancelDuringInstall=False
 DefaultDirName=C:\Util
@@ -12,18 +12,18 @@ SetupLogging=yes
 UsePreviousAppDir=yes
 DisableStartupPrompt=yes
 Output=yes
-OutputDir=e:\yuden\Compile
+OutputDir=C:\CODE\Compile
 OutputBaseFilename=UtilPackSetup
 InternalCompressLevel=max
 Uninstallable=no
 ArchitecturesAllowed=x86 x64
 SolidCompression=True
-MinVersion=0,6.1
+MinVersion=0,6.1sp1
 
 [Files]
 Source: "install-scripts.cmd"; DestDir: "{app}"
 Source: "make_uninstall.UTIL.cmd"; DestDir: "{app}"
-Source: "rmutil.cmd"; DestDir: "{app}"
+Source: "rm.util.cmd"; DestDir: "{app}"
 Source: "UTIL.SFX.exe"; DestDir: "{app}"
 
 [Registry]

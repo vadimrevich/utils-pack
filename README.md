@@ -95,5 +95,5 @@ distributed under the MIT license.
 
 My sites with Contacts:
 
-- [http://yudenisov.ru/](<http://yudenisov.ru/>)
+- [http://VadimRevich.ru/](<http://VadimRevich.ru/>)
 - [http://yudenis.ucoz.ru/](http://yudenis.ucoz.ru/)

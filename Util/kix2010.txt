@@ -1,0 +1,61 @@
+Release notes for KiXtart 2010 (version 4.67)
+
+
+New functionality/enhancements:
+
+4.67:
+ 1) Fixes issue with large strings in scripts
+ 2) added "-b" commandline option to start with 'BREAK ON'
+ 3) fixed issue so KiXtart once again tries for the default script ("KIXTART.KIX")
+ 4) added "NoNetwork" option to tell KiXtart to not try to retrieve network information
+    NoNetwork can be enabled from the commandline, using a new "-n" commandline option 
+    or using SetOption( "NoNetwork", "ON" )
+
+    Note that this option is only useful *before* any reference to network information 
+    is made. In other words: before your script references macros like @HOMEDIR, @HOMESHR, 
+    and before you use the Ingroup function.
+
+4.66:
+ 1) Added support for Windows 10
+
+ 2) Fixed issue in FormatNumber with values < 0
+
+ 3) Fixed issue in Ascan on Windows 7
+
+ 4) Enhanced Trim() so it also treats carriage returns as whitespace..
+
+4.65:
+ 1) Updated @PRODUCTTYPE issues.
+
+ 2) Added support for logon with Microsoft account
+
+ 3) Fixed OS version issue on Windows 8.1
+
+ 4) Added workaround for crashes on Pentium III's.
+
+
+4.64:
+ 1) Updated @PRODUCTTYPE issues.
+
+ 2) Fixed issue of SHELL command creating console in WKIX32
+
+ 3) Fixed issue with SidToName failing on specific SIDs
+
+ 4) Built using Visual Studio 2013 (inc XP targeting option)
+
+ 
+ 
+IMPORTANT NOTICE: current versions of Visual Studio no longer support Windows 9x, Windows NT 4 or 
+                  Windows 2000. As a result, KiXtart 2010 versions 4.60 and up are also no longer
+                  supported on these Windows versions. Running the executable on these versions 
+                  will produce the following error: ".EXE expects a newer version of Windows."
+
+
+Please report any issues with this release on one of the KiXtart discussion
+forums on the Internet:
+
+http://www.kixtart.org
+http://www.scriptlogic.com/kixtart
+
+Note that KiXtart is provided to you as CareWare. Please see the manual for full details on 
+the KiXtart CareWare distribution policy.
